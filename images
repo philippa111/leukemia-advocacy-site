@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leukemia Advocacy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Leukemia Advocacy</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Leukemia</a></li>
+                <li><a href="#stories">Patient Stories</a></li>
+                <li><a href="#awareness">Awareness Campaigns</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Leukemia</h2>
+        <img src="https://tse2.mm.bing.net/th?id=OIP.vLRpCMZqgMAHkWiMgy6gwQHaFc&pid=Api" alt="Microscopic view of leukemia cells">
+        <p>Leukemia is a type of cancer that affects blood-forming tissues...</p>
+    </section>
+
+    <section id="stories">
+        <h2>Patient Stories</h2>
+        <img src="https://tse1.mm.bing.net/th?id=OIP.azEf4YC1sgunuMGCGqAg1AHaFS&pid=Api" alt="Child recovering from leukemia">
+        <p>Meet Sarah, a brave young girl who overcame leukemia...</p>
+    </section>
+
+    <section id="awareness">
+        <h2>Awareness Campaigns</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QBpgU34jxYM" title="Understanding Leukemia: A Comprehensive Guide" frameborder="0" allowfullscreen></iframe>
+        <p>Join our efforts in raising awareness about leukemia...</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Leukemia Advocacy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
